@@ -6,7 +6,7 @@ There are seventeen of total fruits.
 When this time ,you use this program.
 You can be divided equally
 
-**How to use**
+**How to use**\n
 Run the program, you input information or prepare csvfail.
 **Csvfail information**
 choice.csv include "thing name","quantity"
